@@ -1,35 +1,5 @@
 [{
   "_id": {
-    "$oid": "662509ff4ab26b4490199179"
-  },
-  "name": "new"
-},
-{
-  "_id": {
-    "$oid": "66250a084ab26b449019917a"
-  },
-  "name": "TDS"
-},
-{
-  "_id": {
-    "$oid": "66250a114ab26b449019917b"
-  },
-  "name": "shooter"
-},
-{
-  "_id": {
-    "$oid": "66250a194ab26b449019917c"
-  },
-  "name": "pixel"
-},
-{
-  "_id": {
-    "$oid": "66250a234ab26b449019917d"
-  },
-  "name": "runner"
-},
-{
-  "_id": {
     "$oid": "65fd4ae18dfd769ce313327d"
   },
   "name": "popular",
